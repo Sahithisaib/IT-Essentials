@@ -3,7 +3,7 @@ Linux command-Program or utility that runs on command line.
 Command line- Interface that accepts text and turns them to instructions for computer.
 
 ## Commands in Linux:
---System Information:
+System Information:
 
 hostname-To show system host name
 
@@ -27,7 +27,7 @@ reboot-Reboot System
 
 poweroff-Shutdown the System.
 
---File Handling:
+File Handling:
 
 cat-concatenate and print data.
 
