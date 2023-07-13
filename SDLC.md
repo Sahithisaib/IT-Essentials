@@ -32,3 +32,24 @@ V-Model: It is an extension of waterfall model, where testing is planned in para
 Big Bang Model: This model does not have any specific process or requirements, generally used in small or academic projects.
 
 **Agile Model**: 
+Agile model is based on the iterative development where tasks are broken into smaler iteration and generlly does not involve long tterm planning.
+
+Plans regarding the number of iterations, the duration and the scope of each iteration are clearly defined in advance.
+
+The division of the entire project into smaller parts helps to minimize the project risk and to reduce the overall project delivery time requirements. 
+
+Each iteration involves a team working through a full software development life cycle.
+
+**Agile Testing Methods**
+
+Scrum 
+
+Crystal 
+
+Dynamic Software Development Method(DSDM) 
+
+Feature Driven Development(FDD) 
+
+Lean Software Development 
+
+eXtreme Programming(XP) 
