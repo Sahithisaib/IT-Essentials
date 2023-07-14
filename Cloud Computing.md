@@ -10,7 +10,7 @@ Software as a Service (SaaS):  SaaS utilizes the internet to deliver application
 
 A majority of SaaS applications run directly through web browser, which means they do not require any downloads or installations on the client side.
 
-Platform as a Service (PaaS)
+Platform as a Service (PaaS): 
 
 Infrastructure as a Service (IaaS).
 
