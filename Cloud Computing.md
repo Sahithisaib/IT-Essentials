@@ -14,3 +14,9 @@ Platform as a Service (PaaS):
 
 Infrastructure as a Service (IaaS).
 
+AWS:
+--
+
+Region: Independent Geographic Area.
+
+Availability Zone: Multiple isolated data centers located in a region.
