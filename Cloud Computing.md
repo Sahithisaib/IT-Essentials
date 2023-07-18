@@ -57,3 +57,58 @@ AWS Development and Devops Services: CloudFormation, CodeCommit, CodeeDeploy, Co
 
 Azure:
 --
+Azure is a public cloud computing platform—with solutions including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) that can be used for services such as analytics, virtual computing, storage, networking, and much more. 
+
+Azure Virtual Machines: Provides options to create Windows or Linux virtual machines with customization. 
+
+Service Fabrics: Platform that process of developing micro services and application life cycle managemment easier.
+
+Functions: Build applications with serverless computing(can use any language).
+
+**Networking services:**
+Azure Content Delivery Network: Facilitates content delivery with an emphasis on reduced load time.
+
+Express Route: Connect on-premises network to Azure through private network.
+
+Azure DNS: Host user domains, provides high availability.
+
+Azure Virtual Network: enables azure resources to connect with each other.
+Traffic Manager, Load Balancer, Azure VPN Gateway.
+
+Storage:
+
+DataLake -provides scalable data storage.
+Block Storage- Places data to different tiers
+
+Queue Storage- message queing for large workloads
+File Stoage- File sharing
+Table storage- NoSqll key-value store, deploy semi-structured datasets.
+
+Azure Search- develop, mobile or web applications
+Logic Apps- Allows to build integration slutions, perfoms SaaS
+Web Apps- create deploy scale web applications
+Mobile Apps- develop apps for ios or windows, androis
+
+Azure Container serviceS:
+
+Kubernetes:Eases process of container integration and deployment, uses virtual networks, crypto keys to ensure security.
+container instances
+
+SQL Databse- relational cloud database service
+Azure cosmos DB- multi-model database, high security, low latency
+
+Azure Active Directory: manage user identifties and ensure secure resources.
+
+Azure AD B2c: provides customer identity and access management.
+Azure sec center: complete view of security on premise and cloud
+
+Monitoring and mangmt:
+azure advidor: recommend guide for azures best practices
+
+network watcher:
+monitor, diagnose, understanding working ogf network , also undtnd traffic 
+az resource manger; ensure our resource are manged and deployed at consistent rate
+
+
+
+
