@@ -6,7 +6,7 @@ API stands for Application Programming Interface. In the context of APIs, the wo
 
 **4 Different ways of API working:**
 
-SOAP APIs 
+SOAP APIs:
 
 These APIs use Simple Object Access Protocol. Client and server exchange messages using XML. This is a less flexible API that was more popular in the past.
 
