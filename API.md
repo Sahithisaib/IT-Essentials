@@ -9,7 +9,7 @@ API stands for Application Programming Interface. In the context of APIs, the wo
 SOAP APIs:
 
 These APIs use Simple Object Access Protocol. Client and server exchange messages using XML. This is a less flexible API that was more popular in the past.
--------------------------------------------------------------
+
 RPC APIs
 
 These APIs are called Remote Procedure Calls. The client completes a function (or procedure) on the server, and the server sends the output back to the client.
